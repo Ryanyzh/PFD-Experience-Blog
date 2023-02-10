@@ -1,13 +1,6 @@
-# Hook Landing Page Theme
+# Ryan's PFD Blog Experience
 
-This landing page theme is built on [shorthand css framework](https://github.com/shorthandcss/shorthand)
-
-![preview](/preview.jpg)
-
-## Credit
-
-* Picture [unsplash](https://unsplash.com)
-* Icons [feathericons](https://feathericons.com)
+Hello :wave:, welcome to my experience blog for the PFD module! Have fun reading! :hugs:
 
 ## LICENSE
 
